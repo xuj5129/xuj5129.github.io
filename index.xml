@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RO录</title>
+    <link>https://ranye.pages.dev/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>zh-ch</language>
+    <atom:link href="https://ranye.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>攻略</title>
+      <link>https://ranye.pages.dev/guide/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ranye.pages.dev/guide/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>工具类</title>
+      <link>https://ranye.pages.dev/utils/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ranye.pages.dev/utils/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

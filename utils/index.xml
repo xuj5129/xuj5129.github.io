@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工具类 :: RO录</title>
+    <link>https://ranye.pages.dev/utils/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>zh-ch</language>
+    <atom:link href="https://ranye.pages.dev/utils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中央实验室</title>
+      <link>https://ranye.pages.dev/utils/centercode/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ranye.pages.dev/utils/centercode/index.html</guid>
+      <description>&#xD;&lt;!DOCTYPE html&gt;&#xD;仙境传说中央实验室密码&#xD;十进制(1~255)&#xD;二进制</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中央实验室 :: RO录</title>
+    <link>https://ranye.pages.dev/utils/centercode/index.html</link>
+    <description>&#xD;&lt;!DOCTYPE html&gt;&#xD;仙境传说中央实验室密码&#xD;十进制(1~255)&#xD;二进制</description>
+    <generator>Hugo</generator>
+    <language>zh-ch</language>
+    <atom:link href="https://ranye.pages.dev/utils/centercode/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
